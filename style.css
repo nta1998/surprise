@@ -39,8 +39,8 @@ a:hover{
     padding-top: 100px;
 }
 .middle-container {
-    margin: 100px 0px;
-    content: "width=device-width";
+    margin: "width=device-width";
+    
    
 }
 .bottom-container {
